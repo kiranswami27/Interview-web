@@ -1,9 +1,7 @@
 ﻿# Interview-web
 # 🎯 Interview Insights - Advanced AI-Powered Interview Coach
 
-> **Developer:** Harsh Srivastava  
-> **GitHub:** [@horus-bot](https://github.com/horus-bot)  
-> **Status:**  accepting Pull Requests 
+
 
 ---
 
