@@ -20,6 +20,19 @@ Our platform doesn't just record and playback - it **intelligently analyzes** ev
 - **🎯 Role-Specific Coaching** tailored to different job positions
 
 ---
+# Screenshots 
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 211653" src="https://github.com/user-attachments/assets/dab23069-6fa6-4701-a388-444d7488871e" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 211751" src="https://github.com/user-attachments/assets/8dd9ed82-3845-44e7-9411-b61e9caa2f1d" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 211853" src="https://github.com/user-attachments/assets/56734129-5b4b-435f-9c19-7fa20c1c0bf6" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 212414" src="https://github.com/user-attachments/assets/38095cfe-2d01-4424-9e06-8cf3b58d00bc" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 212546" src="https://github.com/user-attachments/assets/f5e920e7-46b8-446e-af06-f11818d3db87" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-04 212631" src="https://github.com/user-attachments/assets/d2bb7f49-967b-488a-b5b7-4aa220176139" />
+
+
+
+
+
 
 ## 🏗️ Architecture & AI Integration
 
